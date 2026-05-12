@@ -1,6 +1,7 @@
 # Campaign-Finance-Loans
 
 Project Overview
+
 This project transforms raw campaign finance data into a strategic decision-making tool. By leveraging SQL (BigQuery) for data engineering and Power BI for visualization, I identified critical funding risks, tracked debt velocity, and performed a compliance audit on over a decade of financial records.
 
 ----------------------------------------------------------------------------------------------
